@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:tybant0427/Book_Search_Engine.git/static/css/main.073c9b0a.css",
+    "main.js": "/git@github.com:tybant0427/Book_Search_Engine.git/static/js/main.8eb301da.js",
+    "static/js/787.bb5b4253.chunk.js": "/git@github.com:tybant0427/Book_Search_Engine.git/static/js/787.bb5b4253.chunk.js",
+    "static/media/logo.svg": "/git@github.com:tybant0427/Book_Search_Engine.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/git@github.com:tybant0427/Book_Search_Engine.git/index.html",
+    "main.073c9b0a.css.map": "/git@github.com:tybant0427/Book_Search_Engine.git/static/css/main.073c9b0a.css.map",
+    "main.8eb301da.js.map": "/git@github.com:tybant0427/Book_Search_Engine.git/static/js/main.8eb301da.js.map",
+    "787.bb5b4253.chunk.js.map": "/git@github.com:tybant0427/Book_Search_Engine.git/static/js/787.bb5b4253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8eb301da.js"
+  ]
+}
